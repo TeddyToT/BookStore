@@ -1,0 +1,23 @@
+# Node modules
+Admin/node_modules/
+BookStore/node_modules/
+
+# Build output
+Admin/dist/
+Admin/build/
+BookStore/dist/
+BookStore/build/
+
+
+# Logs
+Admin/npm-debug.log*
+BookStore/npm-debug.log*
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+Admin/.env
+BookStore/.env
